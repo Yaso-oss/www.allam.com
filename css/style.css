@@ -12,6 +12,11 @@
     --base-color: white;
 }
 body{
+    background-image: url(/download\ \(23\).jfif);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
     background-color: #ddd;
 }
 .card-container{
@@ -94,17 +99,3 @@ h1{
     font-size: larger;
     color: palevioletred;
 }
-image {
-    border-radius: 30px;
-    size: 10px;
-}
-.imge {
-    size: 20px;
-} 
-/* body{
-    display: flex;
-    justify-content: center;
-    align-items: center;height: 100vh;
-    margin: 0; background-color: black;
-
-} */
